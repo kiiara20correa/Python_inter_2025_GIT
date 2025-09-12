@@ -7,4 +7,4 @@ conjuntob = {1, 2, 3, 4}
 print(conjuntoa)
 print(conjuntob)
 print("Unión de A y B:", conjuntoa | conjuntob) 
-#Dudo en si yo entendí correctamente la consigna, porque entiendo ese "en ambos" como la unión de todos los elementos
+#Dudo en si yo entendí correctamente la consigna: REVISAR
